@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Tue May 12 2026 09:50:14 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://my436167.s4hana.cloud.sap/sap/opu/odata4/sap/zqm_fgcoa_ui/srvd/sap/zqm_fgcoa_srv/0001/",
+    "appName": "zqm_fgcoa",
+    "appTitle": "Printing of CoA (Finished Good)",
+    "appDescription": "",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.142.12",
+    "enableEslint": true,
+    "enableTypeScript": true,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.24.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Header"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "_Char"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```",
+    "valueHelpDownloaded": true
+  }
+}
